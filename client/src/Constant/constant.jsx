@@ -1,6 +1,6 @@
 const contractAddress = '0x8D6073D4E37bf28CFDE5B99283114E1Da20D4d13';
 
-const contractABI = [
+const contractAbi = [
   {
     inputs: [
       {
@@ -165,4 +165,4 @@ const contractABI = [
   },
 ];
 
-export { contractABI, contractAddress };
+export { contractAbi, contractAddress };
